@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Pranav Chaudhari, <br>a passionate developer skilled in C, C++, Java, and problem-solving. <br>I’ve also explored Kotlin, R, and TypeScript through one-time project work.<br>I enjoy building efficient programs, exploring new technologies, and <br>continuously improving through hands-on learning. <br>I’ve worked on a Billing System and <br>am eager to work on real-world projects <br>while beginning my journey into the AIML domain.
+I’m Pranav Chaudhari, a passionate developer skilled in C, C++, Java, and problem-solving. I’ve also explored Kotlin, R, and TypeScript through one-time project work. I enjoy building efficient programs, exploring new technologies, and continuously improving through hands-on learning. I’ve worked on a Billing System and am eager to work on real-world projects while beginning my journey into the AIML domain.
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@ I’m Pranav Chaudhari, <br>a passionate developer skilled in C, C++, Java, and 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranav-Chaudhari-2006&icon=6&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
