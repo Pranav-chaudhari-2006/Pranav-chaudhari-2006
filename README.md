@@ -79,24 +79,14 @@
 </p>
 
 <p align="left">
-
-<a href="https://www.linkedin.com/company/pccoe-acm-student-chapter/posts/?feedView=all">
-<img src="https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=acm&logoColor=white"/>
-&nbsp;
-<a href="https://www.linkedin.com/groups/15067041/">
+<a href="https://www.linkedin.com/company/pccoe-acm-student-chapter/posts/?feedView=all"><img src="https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=acm&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/groups/15067041/"><img src="https://img.shields.io/badge/Coding%20Club-2D9F2D?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Software%20Development%20Club-E94560?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Coding%20Club-2D9F2D?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav-chaudhari-2006&theme=radical&margin-w=10&margin-h=10"/>
-</p>
 
 ---
 
