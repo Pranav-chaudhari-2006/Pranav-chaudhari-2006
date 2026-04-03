@@ -70,7 +70,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Pranav-Chaudhari-2006&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&margin-h=4&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-chaudhari-2006&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10"/>
 </p>
 
 ---
