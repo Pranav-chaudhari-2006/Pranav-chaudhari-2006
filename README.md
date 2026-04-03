@@ -75,10 +75,30 @@
 
 ---
 
-# ✍️ Dev Quote
+# 💭Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="left">
+<img width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
+---
+
+## 💰 Give Me a Treat
+
+<p align="left">
+
+<a href="https://www.buymeacoffee.com/Pranav-chaudhari-2006">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PhonePe-5F259F?style=flat-square&logo=phonepe&logoColor=white"/>&nbsp;<code>8668361276@ibl</code>
+
+</p>
+  
 ---
 
 # 🐍 Contribution Snake
