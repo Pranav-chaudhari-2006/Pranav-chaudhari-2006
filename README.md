@@ -5,6 +5,16 @@
 
 ---
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</p>
+
+---
+
 # 🚀 About Me
 
 🎓 Computer Science Sophomore  
@@ -91,24 +101,8 @@
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
-</p>
-
-<p align="left">
+<br/>
 
 <img src="https://img.shields.io/badge/PhonePe-5F259F?style=flat-square&logo=phonepe&logoColor=white"/>&nbsp;<code>8668361276@ibl</code>
 
-</p>
-  
----
-
-# 🐍 Contribution Snake
-
-## 🐍 My Contributions
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 </p>
