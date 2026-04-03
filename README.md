@@ -25,17 +25,12 @@
 
 ---
 
+
 # 🌐 Connect With Me
 <p align="left">
-<a href="https://instagram.com/yourusername">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/in/yourusername">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>&nbsp;
+<a href="https://www.instagram.com/pranavv._.20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/pranavchaudhari06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Pranav-chaudhari-2006"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
   
 ---
@@ -72,6 +67,26 @@
 <a href="https://github.com/Pranav-chaudhari-2006">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-chaudhari-2006&theme=tokyonight&hide_border=false&border=DD2727&background=0D1117&stroke=DD2727&ring=E94560&fire=FFA500&currStreakLabel=FFA500&sideLabels=C9D1D9&currStreakNum=FFA500&sideNums=C9D1D9&dates=8B949E"/>
 </a>
+
+</p>
+
+---
+
+# 🏛️ Clubs & Communities 
+
+<p align="left">
+<b>🤝 Communities & Clubs I have been a part of:</b>
+</p>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/company/pccoe-acm-student-chapter/posts/?feedView=all">
+<img src="https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=acm&logoColor=white"/>
+&nbsp;
+<a href="https://www.linkedin.com/groups/15067041/">
+<img src="https://img.shields.io/badge/Software%20Development%20Club-E94560?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Coding%20Club-2D9F2D?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </p>
 
