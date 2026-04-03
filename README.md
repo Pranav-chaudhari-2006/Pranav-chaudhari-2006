@@ -103,4 +103,12 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/blob/output/github-contribution-grid-snake.svg)
+## 🐍 My Contributions
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Pranav-chaudhari-2006/Pranav-chaudhari-2006/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</p>
