@@ -33,27 +33,54 @@
 <a href="https://github.com/Pranav-chaudhari-2006"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <a href="mailto:pranavchaudhari2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
-  
+
+
 ---
 
-# 💻 Tech Stack
 
+# ⚡ Engineering Stack
+
+### 💻 Languages
 <p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,bash" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/>
+### 📊 Data & Analysis
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
+### 🗄️ Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+</p>
+
+### 🧠 Core CS
+<p align="left">
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-4E9F3D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-8250DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-D97706?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & Practices
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+### 🎨 Design & Productivity
+<p align="left">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"/>
 </p>
 
 ---
@@ -71,6 +98,12 @@
 
 </p>
 
+<br/>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-chaudhari-2006&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity%20Graph" />
+</p>
+
 ---
 
 # 🏛️ Clubs & Communities 
@@ -84,10 +117,6 @@
 <a href="https://www.linkedin.com/groups/15067041/"><img src="https://img.shields.io/badge/Coding%20Club-2D9F2D?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Software%20Development%20Club-E94560?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 ---
 
