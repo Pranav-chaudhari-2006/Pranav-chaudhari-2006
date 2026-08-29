@@ -31,9 +31,9 @@
 <a href="https://www.instagram.com/pranavv._.20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/pranavchaudhari06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/Pranav-chaudhari-2006"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-<a href="mailto:pranavchaudhari2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:pranavchaudhari2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="YOUR_TWITTER_LINK"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"/></a>
 </p>
-
 
 ---
 
@@ -113,9 +113,10 @@
 </p>
 
 <p align="left">
+<a href="https://www.linkedin.com/company/lfdt-student-chapter-pccoe/posts/?feedView=all"><img src="https://img.shields.io/badge/LFDT-6F42C1?style=for-the-badge&logo=linuxfoundation&logoColor=white"/></a>
 <a href="https://www.linkedin.com/company/pccoe-acm-student-chapter/posts/?feedView=all"><img src="https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=acm&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/groups/15067041/"><img src="https://img.shields.io/badge/Coding%20Club-2D9F2D?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Software%20Development%20Club-E94560?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Development%20Club-E94560?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp;
 </p>
 
 ---
